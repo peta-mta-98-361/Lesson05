@@ -1,0 +1,10 @@
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\bin\Debug\FirstService.exe.config
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\bin\Debug\FirstService.exe
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\bin\Debug\FirstService.pdb
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\obj\Debug\FirstService.csprojAssemblyReference.cache
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\obj\Debug\FirstService.FirstService.resources
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\obj\Debug\FirstService.ProjectInstaller.resources
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\obj\Debug\FirstService.csproj.GenerateResource.cache
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\obj\Debug\FirstService.csproj.CoreCompileInputs.cache
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\obj\Debug\FirstService.exe
+F:\Exam-98-361-Prep-master\Lesson05\FirstService\obj\Debug\FirstService.pdb

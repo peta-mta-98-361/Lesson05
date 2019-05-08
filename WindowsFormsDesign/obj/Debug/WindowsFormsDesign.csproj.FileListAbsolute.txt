@@ -1,0 +1,12 @@
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\bin\Debug\WindowsFormsDesign.exe.config
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\bin\Debug\WindowsFormsDesign.exe
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\bin\Debug\WindowsFormsDesign.pdb
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.csprojAssemblyReference.cache
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.Form1.resources
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.InheritedForm.resources
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.Properties.Resources.resources
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.Scenario5_1.resources
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.csproj.GenerateResource.cache
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.csproj.CoreCompileInputs.cache
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.exe
+F:\Exam-98-361-Prep-master\Lesson05\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.pdb

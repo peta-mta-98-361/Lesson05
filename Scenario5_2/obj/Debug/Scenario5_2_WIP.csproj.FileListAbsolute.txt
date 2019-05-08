@@ -1,0 +1,10 @@
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\bin\Debug\Scenario5_2.exe.config
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\bin\Debug\Scenario5_2.exe
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\bin\Debug\Scenario5_2.pdb
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\obj\Debug\Scenario5_2_WIP.csprojAssemblyReference.cache
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\obj\Debug\Scenario5_2.Form1.resources
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\obj\Debug\Scenario5_2.Properties.Resources.resources
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\obj\Debug\Scenario5_2_WIP.csproj.GenerateResource.cache
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\obj\Debug\Scenario5_2_WIP.csproj.CoreCompileInputs.cache
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\obj\Debug\Scenario5_2.exe
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_2\obj\Debug\Scenario5_2.pdb

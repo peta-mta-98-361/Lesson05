@@ -1,0 +1,7 @@
+F:\Exam-98-361-Prep-master\Lesson05\DisplayFile\bin\Debug\DisplayFile.exe.config
+F:\Exam-98-361-Prep-master\Lesson05\DisplayFile\bin\Debug\DisplayFile.exe
+F:\Exam-98-361-Prep-master\Lesson05\DisplayFile\bin\Debug\DisplayFile.pdb
+F:\Exam-98-361-Prep-master\Lesson05\DisplayFile\obj\Debug\DisplayFile.csprojAssemblyReference.cache
+F:\Exam-98-361-Prep-master\Lesson05\DisplayFile\obj\Debug\DisplayFile.csproj.CoreCompileInputs.cache
+F:\Exam-98-361-Prep-master\Lesson05\DisplayFile\obj\Debug\DisplayFile.exe
+F:\Exam-98-361-Prep-master\Lesson05\DisplayFile\obj\Debug\DisplayFile.pdb

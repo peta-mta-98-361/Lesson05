@@ -1,0 +1,7 @@
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_3\bin\Debug\Scenario5_3.exe.config
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_3\bin\Debug\Scenario5_3.exe
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_3\bin\Debug\Scenario5_3.pdb
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_3\obj\Debug\Scenario5_3.csprojAssemblyReference.cache
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_3\obj\Debug\Scenario5_3.csproj.CoreCompileInputs.cache
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_3\obj\Debug\Scenario5_3.exe
+F:\Exam-98-361-Prep-master\Lesson05\Scenario5_3\obj\Debug\Scenario5_3.pdb
